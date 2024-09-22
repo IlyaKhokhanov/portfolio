@@ -1,0 +1,21 @@
+{
+  "phone": { "title": "Телефон:", "link": "+79201304010" },
+  "mail": { "title": "Email:", "link": "hohanov.ilya@gmail.com" },
+  "links": [
+    {
+      "title": "Telegram:",
+      "link": "@hohanhoh",
+      "url": "https://t.me/hohanhoh"
+    },
+    {
+      "title": "GitHub:",
+      "link": "IlyaKhokhanov",
+      "url": "https://github.com/IlyaKhokhanov"
+    },
+    {
+      "title": "Codewars:",
+      "link": "IlyaKhokhanov",
+      "url": "https://www.codewars.com/users/IlyaKhokhanov"
+    }
+  ]
+}

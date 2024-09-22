@@ -1,0 +1,128 @@
+[
+  {
+    "title": "REST/GraphiQL Clients",
+    "img": "rest.jpg",
+    "code": "https://github.com/IlyaKhokhanov/graphiql-app",
+    "deploy": "https://develop--graphiql-app1.netlify.app/en",
+    "desc": [
+      "Разработка в команде из 3 человек REST и GraphiQL клиентов. С возможностью регистрации, входа и смены языка, использования REST и GraphiQL клиентов, просмотра истории запросов. Покрытие тестами больше 85%.",
+      "Роль: тимлид",
+      "Мой вклад:",
+      "- Настройка проекта",
+      "- Страницы регистрации, аутентификации и сброса пароля",
+      "- Rest клиент",
+      "- Страница истории запросов",
+      "- Главная страница при авторизованном пользователе",
+      "- Разработка пользовательского интерфейса",
+      "- Покрытие тестами",
+      "Стек: React, Next, TypeScript, Redux, Redux-Toolkit, Vite, eslint, prettier, husky, Vitest, Firebase, react-hook-form, Yup, GitHub Projects."
+    ]
+  },
+  {
+    "title": "StarWars API",
+    "img": "swapi.jpg",
+    "code": "https://github.com/IlyaKhokhanov/rss-react/tree/app-state-management",
+    "deploy": "https://ilyakhokhanov.github.io/rss-react/api-app/",
+    "desc": [
+      "Приложение на React с использованием API. Для роутинга используется React Router, запросы отправляются через RTK Query. Покрытие тестами больше 90%.",
+      "Функционал:",
+      "- Переключение темы, поиск",
+      "- Переключение страницы",
+      "- Открытие карточки",
+      "- Выбор карточек",
+      "- Скачивание файла с выбранными карточками",
+      "Стек: React, TypeScript, SCSS, React Router, Redux, Redux-Toolkit, RTK Query, Vite, Vitest, eslint, prettier, husky."
+    ]
+  },
+  {
+    "title": "StarWars API SSR",
+    "img": "swapi-ssr.jpg",
+    "code": "https://github.com/IlyaKhokhanov/rss-react/tree/nextjs-ssr-app-router-api",
+    "deploy": "https://nextjs-ssr-app-router-api--rssreact.netlify.app/",
+    "desc": [
+      "SSR приложение на Next.js с использованием API. Запрос данных и рендер страниц происходит на сервере. Покрытие тестами более 80%.",
+      "Функционал:",
+      "- Переключение темы, поиск",
+      "- Переключение страницы",
+      "- Открытие карточки",
+      "- Выбор карточек",
+      "- Скачивание файла с выбранными карточками",
+      "Стек: React, Next, TypeScript, SCSS, Redux, Redux-Toolkit, Vitest, eslint, prettier, husky."
+    ]
+  },
+  {
+    "title": "E-commerce app",
+    "img": "ecommerce.jpg",
+    "code": "https://github.com/IlyaKhokhanov/ecommerce-application/tree/develop",
+    "deploy": "https://inmemoriess.netlify.app/",
+    "desc": [
+      "Разработка в команде из 3 человек E-commerce приложения для онлайн магазина открыток со страницами входа, регистрации, личного кабинета, каталога, карточек продуктов и корзины.",
+      "В данном приложении использовали CommerceTools, платная платформа, возможно на деплое будет ограничен функционал.",
+      "Мой вклад:",
+      "- Настройка и добавление продуктов в CommerceTools",
+      "- Страница регистрации",
+      "- Страница каталога",
+      "- Страница корзины",
+      "Стек: React, TypeScript, Redux, Redux-Toolkit, Ant Design, eslint, prettier, husky, Jira."
+    ]
+  },
+  {
+    "title": "Async race",
+    "img": "race.jpg",
+    "code": "https://github.com/IlyaKhokhanov/rss-projects/blob/async-race/async-race/README.md",
+    "deploy": "https://rolling-scopes-school.github.io/ilyakhokhanov-JSFE2023Q1/async-race/",
+    "desc": [
+      "Асинхронные запросы визуализированные машинами, видно какой запрос быстрее и какой запрос с ошибкой.",
+      "Функционал:",
+      "- Отправка запросов",
+      "- Генерация ранодных машин",
+      "- Изменение машин, можно изменить марку, модель и цвет",
+      "- Просмотр и сортировка страницы рекордсменов по количеству побед и наилучшему времени",
+      "Написана на TypeScript, без использования фреймворков и библиотек",
+      "Стек: TypeScript, SCSS, webpack и eslint."
+    ]
+  },
+  {
+    "title": "Игра сапер",
+    "img": "sapper.jpg",
+    "code": "https://github.com/IlyaKhokhanov/rss-projects/tree/minesweeper/minesweeper",
+    "deploy": "https://rolling-scopes-school.github.io/ilyakhokhanov-JSFE2023Q1/minesweeper/",
+    "desc": [
+      "Игра сапер, адаптивная, с сохранением результатов и прогресса игры и с множеством настроек: сложность, количество бомб, тема, звук.",
+      "Написана на чистом JS, без использования фреймворков и библиотек",
+      "Стек: JavaScript, SCSS, webpack и eslint."
+    ]
+  },
+  {
+    "title": "Игра CSS",
+    "img": "css.jpg",
+    "code": "https://github.com/IlyaKhokhanov/rss-projects/tree/rss-css-selectors/rss-css-selectors",
+    "deploy": "https://rolling-scopes-school.github.io/ilyakhokhanov-JSFE2023Q1/rss-css-selectors/",
+    "desc": [
+      "Игра для изучения CSS селекторов, адаптивная, с сохранением прогресса игры, с HTML и CSS редакторами, с подсветкой элементов на доске и в редакторе.",
+      "Написана на TypeScript, без использования фреймворков и библиотек",
+      "Стек: TypeScript, SCSS, webpack и eslint."
+    ]
+  },
+  {
+    "title": "Клавиатура",
+    "img": "keyboard.jpg",
+    "code": "https://github.com/IlyaKhokhanov/virtual-keyboard/tree/development",
+    "deploy": "https://ilyakhokhanov.github.io/virtual-keyboard/",
+    "desc": [
+      "Виртуальная клавиатура, работающая с использованием мыши и физической клавиатуры",
+      "Написана на чистом JS, без использования фреймворков и библиотек",
+      "Стек: JavaScript, SCSS, webpack и eslint."
+    ]
+  },
+  {
+    "title": "Формы",
+    "img": "forms.jpg",
+    "code": "https://github.com/IlyaKhokhanov/rss-react/tree/forms",
+    "deploy": "https://rolling-scopes-school.github.io/ilyakhokhanov-JSFE2023Q1/minesweeper/",
+    "desc": [
+      "Приложение с контролируемыми и неконтролируемыми формами регистрации, с валидацией и с загрузкой картинки, которая будет храниться в формате base64, данные с обеих форм отображаются на главной странице",
+      "Стек: React, TypeScript, SCSS, Redux, Redux-Toolkit, react-hook-form, Yup, Vite, eslint, prettier, husky."
+    ]
+  }
+]
