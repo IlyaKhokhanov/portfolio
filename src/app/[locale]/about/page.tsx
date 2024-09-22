@@ -1,4 +1,4 @@
-import { AboutPage } from '@/pages';
+import { AboutPage } from '@/containers';
 
 const About = () => {
   return <AboutPage />;

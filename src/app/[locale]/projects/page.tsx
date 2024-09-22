@@ -1,4 +1,4 @@
-import { ProjectsPage } from '@/pages';
+import { ProjectsPage } from '@/containers';
 
 const Projects = () => {
   return <ProjectsPage />;
