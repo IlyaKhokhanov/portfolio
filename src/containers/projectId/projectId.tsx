@@ -19,7 +19,6 @@ export const ProjectIdPage = ({ id }: { id: string }) => {
           className={styles.img}
           src={`/${card.img}`}
           fill
-          sizes="80%"
           alt="Photo"
           priority
           blurDataURL={card.img}

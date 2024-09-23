@@ -19,7 +19,7 @@
 .header {
   display: flex;
   flex-direction: column;
-  gap: 15px;
+  gap: 10px;
 }
 
 .img {
@@ -28,6 +28,8 @@
 }
 
 .name {
+  align-self: center;
+  text-align: center;
   font-size: 24px;
   font-weight: 500;
 }
@@ -39,15 +41,22 @@
   font-weight: 500;
 }
 
+.miniTitle {
+  margin-left: 10px;
+  margin-bottom: 10px;
+  font-size: 18px;
+  font-weight: 500;
+}
+
 .text {
-  padding-left: 10px;
+  padding-left: 20px;
   line-height: 1.8;
   font-size: 16px;
 }
 
 .link {
   display: block;
-  padding: 5px 10px;
+  padding: 5px 20px;
   font-size: 16px;
   color: #fff;
 }

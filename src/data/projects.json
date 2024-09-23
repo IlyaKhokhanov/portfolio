@@ -78,7 +78,7 @@
       "- Генерация ранодных машин",
       "- Изменение машин, можно изменить марку, модель и цвет",
       "- Просмотр и сортировка страницы рекордсменов по количеству побед и наилучшему времени",
-      "Написана на TypeScript, без использования фреймворков и библиотек",
+      "Написана на TypeScript, без использования фреймворков и библиотек.",
       "Стек: TypeScript, SCSS, webpack и eslint."
     ]
   },
@@ -89,7 +89,7 @@
     "deploy": "https://rolling-scopes-school.github.io/ilyakhokhanov-JSFE2023Q1/minesweeper/",
     "desc": [
       "Игра сапер, адаптивная, с сохранением результатов и прогресса игры и с множеством настроек: сложность, количество бомб, тема, звук.",
-      "Написана на чистом JS, без использования фреймворков и библиотек",
+      "Написана на чистом JS, без использования фреймворков и библиотек.",
       "Стек: JavaScript, SCSS, webpack и eslint."
     ]
   },
@@ -100,7 +100,7 @@
     "deploy": "https://rolling-scopes-school.github.io/ilyakhokhanov-JSFE2023Q1/rss-css-selectors/",
     "desc": [
       "Игра для изучения CSS селекторов, адаптивная, с сохранением прогресса игры, с HTML и CSS редакторами, с подсветкой элементов на доске и в редакторе.",
-      "Написана на TypeScript, без использования фреймворков и библиотек",
+      "Написана на TypeScript, без использования фреймворков и библиотек.",
       "Стек: TypeScript, SCSS, webpack и eslint."
     ]
   },
@@ -110,9 +110,20 @@
     "code": "https://github.com/IlyaKhokhanov/virtual-keyboard/tree/development",
     "deploy": "https://ilyakhokhanov.github.io/virtual-keyboard/",
     "desc": [
-      "Виртуальная клавиатура, работающая с использованием мыши и физической клавиатуры",
-      "Написана на чистом JS, без использования фреймворков и библиотек",
+      "Виртуальная клавиатура, работающая с использованием мыши и физической клавиатуры.",
+      "Написана на чистом JS, без использования фреймворков и библиотек.",
       "Стек: JavaScript, SCSS, webpack и eslint."
+    ]
+  },
+  {
+    "title": "PixelPerfect Pets",
+    "img": "pets.jpg",
+    "code": "https://github.com/IlyaKhokhanov/rss-projects/tree/shelter-part3/shelter",
+    "deploy": "https://ilyakhokhanov.github.io/rss-projects/shelter/pages/main/index.html",
+    "desc": [
+      "Одна из первых работ, верстка сайта PixelPerfect, состоящий из 2 страниц с каруселью, пагинацией и модалкой.",
+      "Написан на чистом JS, без использования фреймворков и библиотек.",
+      "Стек: HTML, JavaScript, SCSS."
     ]
   },
   {
@@ -121,7 +132,7 @@
     "code": "https://github.com/IlyaKhokhanov/rss-react/tree/forms",
     "deploy": "https://rolling-scopes-school.github.io/ilyakhokhanov-JSFE2023Q1/minesweeper/",
     "desc": [
-      "Приложение с контролируемыми и неконтролируемыми формами регистрации, с валидацией и с загрузкой картинки, которая будет храниться в формате base64, данные с обеих форм отображаются на главной странице",
+      "Приложение с контролируемыми и неконтролируемыми формами регистрации, с валидацией и с загрузкой картинки, которая будет храниться в формате base64, данные с обеих форм отображаются на главной странице.",
       "Стек: React, TypeScript, SCSS, Redux, Redux-Toolkit, react-hook-form, Yup, Vite, eslint, prettier, husky."
     ]
   }

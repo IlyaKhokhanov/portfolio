@@ -10,9 +10,15 @@ export const AboutPage = () => {
   return (
     <div className={styles.about}>
       <div className={styles.info}>
-        {about.map((el) => (
-          <div key={el.title}>
-            <h2 className={styles.title}>{el.title}</h2>
+        {about.map((el, indx) => (
+          <div key={indx}>
+            {el.title && <h2 className={styles.title}>{el.title}</h2>}
+            {el.miniTitle?.length &&
+              el.miniTitle.map((title) => (
+                <h3 className={styles.miniTitle} key={title}>
+                  {title}
+                </h3>
+              ))}
             {el.text?.length &&
               el.text.map((text) => (
                 <div className={styles.text} key={text}>
@@ -32,7 +38,7 @@ export const AboutPage = () => {
         <Image className={styles.img} src={photo} alt="logo" width={200} height={300} priority />
         <div>
           <h1 className={styles.name}>Илья Хоханов</h1>
-          <div>Фронтенд разработчик (React)</div>
+          {/* <div>Фронтенд разработчик (React)</div> */}
         </div>
       </div>
     </div>
